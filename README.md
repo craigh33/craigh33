@@ -7,5 +7,5 @@ I am **Craig Hutcheon**. I work as a **Software Engineer @ N-able** in **Dundee,
 
 ---
 
-![Craigs's GitHub stats](https://github-readme-stats.vercel.app/api?username=craigh33&show_icons=true&theme=transparent)
+![Stats](./profile/stats.svg)
 
