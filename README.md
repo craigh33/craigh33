@@ -7,7 +7,5 @@ I am **Craig Hutcheon**. I work as a **Software Engineer @ N-able** in **Dundee,
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=craigh33&show_icons=true&theme=vision-friendly-dark&&count_private=true&hide=stars,issues,contribs&&include_all_commits=true"/>
-</a>
+[![Craigs's GitHub stats](https://github-readme-stats.vercel.app/api?username=craigh33)](https://github.com/anuraghazra/github-readme-stats)
 
